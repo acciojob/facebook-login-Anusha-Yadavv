@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
  body {
-            background-color:red;
+            background-color:#f6f6f6;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -14,7 +14,7 @@
         }
 
         .left {
-            width: 500px;
+            width: 450px;
             margin-top: 70px;
             display: inline-block;
         }
@@ -27,7 +27,7 @@
 
         form {
             display: flex;
-            width: 400px;
+            width: 300px;
 			height:250px;
             background-color: white;
             padding: 20px;
@@ -57,3 +57,7 @@
             text-decoration: none;
             color: #1877f2;
         }
+.signup{
+	background-color:#42b72a;
+}
+
