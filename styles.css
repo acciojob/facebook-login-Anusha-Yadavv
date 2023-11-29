@@ -14,7 +14,7 @@
         }
 
         .left {
-            width: 450px;
+            width: 500px;
             margin-top: 70px;
             display: inline-block;
         }
@@ -27,7 +27,8 @@
 
         form {
             display: flex;
-            width: 300px;
+            width: 400px;
+			height:250px;
             background-color: white;
             padding: 20px;
             border-radius: 5px;
